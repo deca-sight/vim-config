@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/var/www/deca-sight/lethalsecurity.com/js'
+let g:netrw_dirhist_2='/var/www/deca-sight/jquery.terminal/js'
+let g:netrw_dirhist_3='/etc/default'
+let g:netrw_dirhist_4='/var/log'
